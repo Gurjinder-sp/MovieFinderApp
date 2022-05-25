@@ -1,3 +1,11 @@
+# Movie search App using React and OMDB API.
+Functionalities:
+    1. Searching movies by name
+    2. Adding in Favorites list and removing them as well.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
